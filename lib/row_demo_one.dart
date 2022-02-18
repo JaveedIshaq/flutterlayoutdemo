@@ -27,7 +27,7 @@ class _RowDemoOneState extends State<RowDemoOne> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Row Demo'),
+        title: Text('Row Demo One Title'),
         actions: [
           DropdownButton(
               hint: Text(
